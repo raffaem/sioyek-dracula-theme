@@ -1,3 +1,5 @@
+<h1>MOVED <a href="https://github.com/dracula/sioyek">HERE</a>: https://github.com/dracula/sioyek</h1>
+
 # Dracula for [sioyek](https://sioyek.info)
 
 > A dark theme for [Sioyek](https://sioyek.info).
